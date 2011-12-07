@@ -1,0 +1,150 @@
+#lightcaptcha {width:100%;}
+#lightcaptcha .icon48 {
+	float: left;
+	height: 40px;
+	margin: 0 6px 0 0;
+	width: 40px;
+}
+
+#lightcaptcha .sep {float:right;height:1px;}
+#lightcaptcha-panel-icon {background: url(images/lightcaptcha-icon.png) no-repeat;}
+#lightcaptcha-panel-title {line-height:48px;overflow:hidden;}
+
+#lightcaptcha-admin-sidebar.metabox-holder {
+	display: inline;
+	margin-right:-300px;
+	float: right;
+	padding-top: 24px;
+	width: 281px;
+}
+.about-us #lightcaptcha-admin-sidebar.metabox-holder{padding-top:0;	margin-top:-3px;}
+
+#lightcaptcha #lightcaptcha-panel-frame {
+	position:relative;
+	margin-right:300px;
+	padding-top:3px;
+	display:block;
+	font-size:13px;
+	width:100%;
+	zoom:100%;
+}
+#lightcaptcha #nav-menu-header {font-weight:bold;	padding:0;}
+
+#lightcaptcha .major-publishing-actions {
+    clear: both;
+    padding: 5px 10px;
+	line-height:1.2; background:#fff;
+}
+#lightcaptcha #post-body-content {width:100%;}
+
+#lightcaptcha #post-body {
+	background:#fff;
+	padding:10px;
+	overflow:hidden;
+}
+#lightcaptcha .clear{height:1px;line-height:1px;}
+#lightcaptcha div.inside {padding:10px;}
+#lightcaptcha ul.cols-2{overflow:hidden;}
+#lightcaptcha ul.cols-2 li{
+	display:block;
+	width:48%;
+	padding-right:1%;
+	float:left;
+}
+#lightcaptcha #post-body td {padding:8px 10px;}
+#lightcaptcha .inside p {margin:10px 0 0;}
+#lightcaptcha .inside > p:first-child {margin-top:0;}
+/* Overview */
+
+#lightcaptcha .screenshot-wrap .inner {padding:10px;}
+#lightcaptcha .screenshot-wrap .screenshot {
+	display:block;
+	margin-bottom:10px;
+	background:#f1f1f1;
+	text-align:center;
+}
+#lightcaptcha .screenshot-wrap .screenshot img {float:left;}
+#lightcaptcha .info {margin-left:300px;}
+#lightcaptcha .info .desc {	margin-bottom:20px;}
+#lightcaptcha .lightcaptcha-submit-buttons {float:right;}
+#lightcaptcha #box_subscribe > p:first-child {margin-top: 0;}
+#lightcaptcha #box_subscribe fieldset {	padding-left:20px;}
+ul.light-captcha-settings-list  {width:100%}
+
+
+#lightcaptcha .light-captcha-settings-list label {
+	display:inline-block;
+	width:200px;
+	vertical-align:top;
+}
+#lightcaptcha .light-captcha-settings-list .text-field {width:200px;}
+#lightcaptcha #post-body legend {
+	font-size:13px;
+	font-weight:bold;
+	padding: 5px 0;
+}
+#lightcaptcha #post-body .light-captcha-settings-list {padding-left: 20px;}
+#lightcaptcha #post-body .light-captcha-settings-list li {
+	line-height:22px;    border-bottom:1px solid #eee ;
+	min-height:32px; font-size:12px;
+	position:relative;
+}
+#lightcaptcha #post-body .light-captcha-settings-list input.str-field {width:130px;}
+#lightcaptcha a.tooltip {
+	position:absolute;
+	z-index:99;
+	left:370px;
+	top:2px;
+	margin-left:20px;
+	font-weight:bold;
+	line-height:1.2;
+	color: #CCC;
+	border:1px solid #ccc;
+	padding: 1px 4px;
+	text-decoration: none;
+ text-align: center;
+
+}
+#lightcaptcha a.tooltip span {
+	display:none;font-size:10px;
+	width:250px;
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+#lightcaptcha a.tooltip:hover {background:#FFFF99;color:#666;}
+#lightcaptcha a.tooltip:hover span {
+	font-weight:normal;
+	left:130%;
+	top:-1px;
+	display:block;
+	position:absolute;
+	padding: 5px;
+	background:#FFFFCC;
+	border:1px solid #ccc;
+	color: #292929;
+}
+#lightcaptcha .colorPickerDiv{
+	z-index: 100;
+	background:#eee;
+	border:1px solid #ccc;
+	position:absolute;
+	top:0;
+	left:270px;
+	display:none;
+}
+
+#thethe_captcha;#reload_captcha_math, #reload_captcha_symbol{
+ cursor:pointer;border:1px solid #ccc;
+   -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+#reload_captcha_math:hover, #reload_captcha_symbol:hover{
+ border:1px solid #ccc;
+   -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.0);
+	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.0);
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.0);
+}
+

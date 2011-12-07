@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: inc/inc.submit-buttons.php:3
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: inc/inc.submit-buttons.php:4
+#@ default
+msgid "Default"
+msgstr ""
+
+#: inc/view.overview.php:8
+#@ light-captcha
+msgid "Light CAPTCHA is a WordPress plugin for prevent spam in comments and registration forms by using CAPTCHA without needing to register at any external CAPTCHA service ever."
+msgstr ""
+
+#: inc/view.overview.php:9
+#@ light-captcha
+msgid "The Light CAPTCHA plugin let you choose to offer either a graphic character-based protection or a simple mathematical test. This is enough for keep spambots away."
+msgstr ""
+
+#: inc/view.settings-math.php:7
+#: lib/class.captcha.php:28
+#@ light-captcha
+msgid "Mathematical CAPTCHA Settings"
+msgstr "文字 CAPTCHA の セッティング"
+
+#: inc/view.settings-math.php:32
+#: inc/view.settings-symbol.php:27
+#@ light-captcha
+msgid "Enable on Comments Form"
+msgstr "コメントフォーム  点ける"
+
+#: inc/view.settings-math.php:34
+#@ light-captcha
+msgid "Check this box to add the CAPTCHA to your comment forms"
+msgstr ""
+
+#: inc/view.settings-math.php:37
+#: inc/view.settings-symbol.php:32
+#@ light-captcha
+msgid "Enable on Registration Form"
+msgstr "登記フォーム  点ける"
+
+#: inc/view.settings-math.php:39
+#@ light-captcha
+msgid "Check this box to add the CAPTCHA to your user registration form"
+msgstr ""
+
+#: inc/view.settings-math.php:42
+#@ default
+msgid "Text Color"
+msgstr ""
+
+#: inc/view.settings-math.php:44
+#@ light-captcha
+msgid "Choose the color for generating digits"
+msgstr ""
+
+#: inc/view.settings-math.php:47
+#: inc/view.settings-symbol.php:37
+#@ default
+msgid "Background Color"
+msgstr ""
+
+#: inc/view.settings-math.php:49
+#: inc/view.settings-symbol.php:39
+#@ light-captcha
+msgid "Choose a color for your CAPTCHA area background"
+msgstr "CAPTCHA バックグラウンド カラーを 見立てる ください。"
+
+#: inc/view.settings-math.php:52
+#@ light-captcha
+msgid "Grid Color"
+msgstr "グリッドカラー"
+
+#: inc/view.settings-math.php:54
+#@ light-captcha
+msgid "Choose the color for your background cells"
+msgstr "グリッドカラー を 見立てる ください。"
+
+#: inc/view.settings-math.php:62
+#: inc/view.settings-symbol.php:57
+#@ default
+msgid "Width"
+msgstr ""
+
+#: inc/view.settings-math.php:64
+#: inc/view.settings-symbol.php:59
+#@ light-captcha
+msgid "Specify the CAPTCHA area width in pixels"
+msgstr "幅広 の CAPTCHA エリア  を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:67
+#: inc/view.settings-symbol.php:62
+#@ default
+msgid "Height"
+msgstr ""
+
+#: inc/view.settings-math.php:69
+#: inc/view.settings-symbol.php:64
+#@ light-captcha
+msgid "Specify the CAPTCHA area height in pixels"
+msgstr "高さ の CAPTCHA  エリア  を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:72
+#@ light-captcha
+msgid "Minimum Font Size"
+msgstr "最小 フォント サイズ (ピケセル)。"
+
+#: inc/view.settings-math.php:74
+#@ light-captcha
+msgid "Specify the minimal font size for generating digits"
+msgstr "最小 フォント サイズ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:77
+#@ light-captcha
+msgid "Maximum Font Size"
+msgstr "最大 フォント サイズ (ピケセル)。"
+
+#: inc/view.settings-math.php:79
+#@ light-captcha
+msgid "Specify the maximal font size for generating digits"
+msgstr "最大 フォント サイズ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:82
+#@ light-captcha
+msgid "Rotation Angle"
+msgstr "回転かく"
+
+#: inc/view.settings-math.php:84
+#@ light-captcha
+msgid "Specify the maximal slop of the generating digits"
+msgstr "最大 ばんごうの ホップ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:59
+#@ light-captcha
+msgid "Specify cell size of your generating background grid"
+msgstr "バックスクリーン グリッド の セル サイズ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:87
+#@ light-captcha
+msgid "Possible Math Operators"
+msgstr "文字　の　オペレータ"
+
+#: inc/view.settings-math.php:95
+#@ light-captcha
+msgid "Choose mathematical operations to use"
+msgstr "文字　の　オペレータ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-math.php:99
+#@ light-captcha
+msgid "First Number, Range of Random Values (Keep it lower than Second Number)"
+msgstr ""
+
+#: inc/view.settings-math.php:102
+#: inc/view.settings-math.php:108
+#@ light-captcha
+msgid "Range of Random Values from X to Y"
+msgstr ""
+
+#: inc/view.settings-math.php:105
+#@ light-captcha
+msgid "Second Number Random Value"
+msgstr ""
+
+#: inc/view.settings-symbol.php:5
+#: lib/class.captcha.php:24
+#@ light-captcha
+msgid "Character CAPTCHA Settings"
+msgstr "文字 CAPTCHA の セッティング"
+
+#: inc/view.settings-symbol.php:29
+#@ light-captcha
+msgid "Check this to add the CAPTCHA to your comment forms"
+msgstr ""
+
+#: inc/view.settings-symbol.php:34
+#@ light-captcha
+msgid "Check this to add the CAPTCHA to your user registration form"
+msgstr ""
+
+#: inc/view.settings-symbol.php:42
+#@ light-captcha
+msgid "Shadow Color"
+msgstr "シャドー カラー"
+
+#: inc/view.settings-symbol.php:44
+#@ light-captcha
+msgid "CAPTCHA symbol shadow color"
+msgstr ""
+
+#: inc/view.settings-symbol.php:52
+#@ light-captcha
+msgid "Character Quantity"
+msgstr "文字の量"
+
+#: inc/view.settings-symbol.php:54
+#@ light-captcha
+msgid "How many characters to use"
+msgstr "文字の量を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:77
+#@ light-captcha
+msgid "Maximum Character Left Slope"
+msgstr "大 左 ばんごうの ホップ"
+
+#: inc/view.settings-symbol.php:79
+#@ light-captcha
+msgid "Maximum slop of the generating characters to the left"
+msgstr "最大 左 ばんごうの ホップ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:82
+#@ light-captcha
+msgid "Maximum Character Right Slope"
+msgstr "最大 左 ばんごうの ホップ"
+
+#: inc/view.settings-symbol.php:84
+#@ light-captcha
+msgid "Maximum slop of the generating characters to the right"
+msgstr "最大 右 ばんごうの ホップ を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:87
+#@ light-captcha
+msgid "Character Vertical Alignment"
+msgstr "文字 の  たいちょうかく"
+
+#: inc/view.settings-symbol.php:89
+#@ light-captcha
+msgid "Specify the vertical alignment"
+msgstr "文字 の たいちょうかく を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:97
+#@ light-captcha
+msgid "Characters Spacing"
+msgstr "文字　スペーシング"
+
+#: inc/view.settings-symbol.php:99
+#@ light-captcha
+msgid "Specify the spacing between characters"
+msgstr "文字　スペーシング を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:102
+#@ light-captcha
+msgid "Characters Set"
+msgstr "文字　ッテセット"
+
+#: inc/view.settings-symbol.php:104
+#@ light-captcha
+msgid "Enter the set of characters to randomly use on CAPTCHA generation"
+msgstr "ランダム 文字　ッテセット を 見立てる ください。"
+
+#: inc/view.settings-symbol.php:107
+#@ light-captcha
+msgid "Noise Level"
+msgstr "ノイズ　レベル"
+
+#: inc/view.settings-symbol.php:109
+#@ light-captcha
+msgid "Specify in % the graphic noise level. The more noise level the harder to recognize a character"
+msgstr ""
+
+#: inc/view.settings.php:9
+#@ light-captcha
+msgid "Character CAPTCHA"
+msgstr "文字 CAPTCHA"
+
+#: inc/view.settings.php:13
+#@ light-captcha
+msgid "Mathematical CAPTCHA"
+msgstr "数学 CAPTCHA"
+
+#: lib/class.captcha.php:20
+#@ default
+msgid "Overview"
+msgstr ""
+
+#: inc/view.settings-math.php:27
+#: inc/view.settings-symbol.php:23
+#: lib/class.captcha.php:66
+#: lib/class.captcha.php:89
+#: lib/class.captcha.php:262
+#: lib/class.captcha.php:286
+#@ light-captcha
+msgid "Generate new CAPTCHA"
+msgstr "CAPTCHA ついって"
+
+#: lib/class.captcha.php:69
+#: lib/class.captcha.php:265
+#@ light-captcha
+msgid "CAPTCHA Code"
+msgstr "CAPTCHA コード"
+
+#: lib/class.captcha.php:90
+#: lib/class.captcha.php:288
+#@ light-captcha
+msgid "Result"
+msgstr "リザルト"
+
+#: lib/class.captcha.php:210
+#@ light-captcha
+msgid "Error: You have not entered a CAPTCHA text/result. Press your browser's back button and try again."
+msgstr ""
+
+#: lib/class.captcha.php:223
+#: lib/class.captcha.php:236
+#@ light-captcha
+msgid "Error: You have entered a wrong CAPTCHA text/result. Press your browser's back button and try again."
+msgstr ""
+
+#: lib/class.captcha.php:301
+#: lib/class.captcha.php:314
+#: lib/class.captcha.php:327
+#@ light-captcha
+msgid "ERROR"
+msgstr "エラー"
+
+#: lib/class.captcha.php:301
+#@ light-captcha
+msgid "Please Complete the CAPTCHA."
+msgstr "CAPTCHA を 応ずいって ください。"
+
+#: lib/class.captcha.php:314
+#: lib/class.captcha.php:327
+#@ light-captcha
+msgid "That CAPTCHA was incorrect. Make sure you have not disabled cookies."
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "Light CAPTCHA"
+msgstr "Light CAPTCHA"
+
+#. translators: plugin header field 'PluginURI'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "http://arquivo.tk/dev/light-captcha"
+msgstr "http://arquivo.tk/dev/light-captcha"
+
+#. translators: plugin header field 'Author'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "Diana K. Cury"
+msgstr "Diana K. Cury"
+
+#. translators: plugin header field 'AuthorURI'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "http://arquivo.tk/"
+msgstr "http://arquivo.tk/"
+
+#. translators: plugin header field 'Version'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "1.0"
+msgstr "1.0"
+
+#: inc/view.overview.php:10
+#@ light-captcha
+msgid "Plugin site"
+msgstr "プルキン　ウエブサイト"
+
+#: inc/view.settings-math.php:24
+#: inc/view.settings-symbol.php:20
+#@ light-captcha
+#@ default
+msgid "Current"
+msgstr "カレント"
+
+#: inc/view.settings-math.php:57
+#@ light-captcha
+msgid "Grid Size"
+msgstr "グリッドサイズ"
+
+#: inc/view.settings-symbol.php:47
+#@ light-captcha
+msgid "Shadow Distance"
+msgstr "シャドーディスタンス"
+
+#: inc/view.settings-symbol.php:49
+#@ light-captcha
+msgid "Shadow distance (pixels)"
+msgstr "シャドーディスタンス を 見立てる ください (ピケセル)。"
+
+#: inc/view.settings-symbol.php:67
+#@ light-captcha
+msgid "Minimum font size"
+msgstr "最小 フォント サイズ (ピケセル)。"
+
+#: inc/view.settings-symbol.php:69
+#@ light-captcha
+msgid "Minimum font size for CAPTCHA characters (pixels)"
+msgstr ""
+
+#: inc/view.settings-symbol.php:72
+#@ light-captcha
+msgid "Maximum font size"
+msgstr "最大 フォント サイズ (ピケセル)。"
+
+#: inc/view.settings-symbol.php:74
+#@ light-captcha
+msgid "Maximum font size for CAPTCHA characters (pixels)"
+msgstr ""
+
+#: inc/view.settings-symbol.php:92
+#@ light-captcha
+msgid "Left Spacing"
+msgstr "右 スペーシング"
+
+#: inc/view.settings-symbol.php:94
+#@ light-captcha
+msgid "Specify the first left character distance from edge(pixels)"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: light-captcha.php:0
+#@ light-captcha
+msgid "Prevent spam in your site by using this simple CAPTCHA plugin. Light CAPTCHA does not require any external service account.Access Tools &rarr; <a href=\"tools.php?page=captcha\">Light CAPTCHA</a>."
+msgstr ""
+
