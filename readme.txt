@@ -1,6 +1,6 @@
 === Light CAPTCHA ===
 Contributors: Dianakc
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LQ79B3CWJ7CZG
+Donate link: https://arquivo.tk/dev/light-captcha
 Tags: antispam, captcha, registration, comment, comments, spam, text captcha
 Requires at least: 3.0
 Tested up to: 3.3
