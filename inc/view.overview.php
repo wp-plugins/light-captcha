@@ -7,7 +7,7 @@
 <div class="info">
 <p align="left"><?php _e('Light CAPTCHA is a WordPress plugin for prevent spam in comments and registration forms by using CAPTCHA without needing to register at any external CAPTCHA service ever.','light-captcha')?></p>
 <p align="left"><?php _e('The Light CAPTCHA plugin let you choose to offer either a graphic character-based protection or a simple mathematical test. This is enough for keep spambots away.','light-captcha')?> </p>
-<p align="left"><a href="http://arquivo.tk/dev/light-captcha" target="_blank" ><?php _e('Plugin site','light-captcha')?></a></p>
+<p align="left"><a href="http://dianakcury.com/dev/light-captcha" target="_blank" ><?php _e('Plugin site','light-captcha')?></a></p>
 
 </div>
 <div class="clear">&nbsp;</div>

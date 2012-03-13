@@ -1,6 +1,6 @@
 === Light CAPTCHA ===
 Contributors: Dianakc
-Donate link: https://arquivo.tk/dev/light-captcha
+Donate link: https://dianakcury.com/dev/light-captcha
 Tags: antispam, captcha, registration, comment, comments, spam, text captcha
 Requires at least: 3.0
 Tested up to: 3.3

@@ -4,7 +4,7 @@ Plugin Name: Light CAPTCHA
 Text Domain: light-captcha
 Domain Path: /languages
 Version: 1.0
-Plugin URI: http://arquivo.tk/dev/light-captcha
+Plugin URI: http://dianakcury.com/dev/light-captcha
 Description: Prevent spam in your site by using this simple CAPTCHA plugin. Light CAPTCHA does not require any external service account.Access Tools &rarr; <a href="tools.php?page=captcha">Light CAPTCHA</a>.
 Author: Diana K. Cury
 Author URI: http://arquivo.tk/
